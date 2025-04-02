@@ -17,13 +17,9 @@ Unauthorized use of keyloggers is **illegal**. Ensure you have **explicit permis
    cd simple-keylogger
    
 2.Install dependencies:
-  bash
-  Copy
-  Edit
+ 
   pip install -r requirements.txt
 
 3.Run the keylogger:
-  bash
-  Copy
-  Edit
+  
   python keylogger.py
